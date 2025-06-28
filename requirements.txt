@@ -1,6 +1,8 @@
-openai
+streamlit
+google-generativeai
+python-dotenv
 PyPDF2
 python-docx
-pandas
-plotly
+streamlit-lottie
 reportlab
+
