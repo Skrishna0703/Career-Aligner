@@ -18,6 +18,10 @@ from docx.shared import Pt
 # Load environment variables
 load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") 
+# GEMINI_API_KEY=AIzaSyDiqy5V2aJsC0eaygrZqcxULLyTm6H4--0
+
+# //GEMINI_API_KEY=AIzaSyDiqy5V2aJsC0eaygrZqcxULLyTm6H4--0
+
 
 st.set_page_config(page_title="LinkedIn Job Application Assistant-Career Aligner", layout="wide")
 
